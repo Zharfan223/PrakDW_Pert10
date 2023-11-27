@@ -1,0 +1,26 @@
+  /* Padding and margin adjustments */
+
+  .jumbotron {
+    padding-top: 6rem;
+    background-color: #D2E0FB;
+  }
+  
+  /* Styling for About, Projects, and Contact sections */
+  
+  #About {
+    background-color: #F9F3CC;
+    color: black;
+    padding-top: 6rem;
+  }
+  
+  #Projects {
+    background-color: #D2E0FB;
+    padding-top: 6rem;
+  }
+  
+  #Contact {
+    background-color: #D7E5CA;
+    color: black;
+    padding-top: 6rem;
+  }
+  
